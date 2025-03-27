@@ -1,6 +1,6 @@
-rm -rf 
-sfsfs
-sfs
-fsfsvd
-cd
+i
+
+x=5
+xfsvd
+/usr/bin/bash: line 1: qw: command not found
 cdc
